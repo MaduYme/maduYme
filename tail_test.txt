@@ -1,0 +1,40 @@
+<!-- EXPERIENCE -->
+<section id="experience">
+  <div class="sec-tag fu"><span data-en>// karriere</span><span data-de>// karriere</span></div>
+  <h2 class="sec-title reveal d1"><span data-en>Experience</span><span data-de>Berufserfahrung</span></h2>
+  <div class="timeline">
+    <div class="titem fu">
+      <div class="t-period">Jan 2024 — Present</div>
+      <div class="t-role">Maintenance Technician (Advertising)</div>
+      <div class="t-company">Wayamba Diagnostic Medical Laboratory (Pvt) Ltd — Sri Lanka</div>
+      <ul class="t-bullets">
+        <li>Design and production of plastic letter embossing and LED illuminated sign boards</li>
+        <li>CNC router, laser cutting machine and digital print machine operation</li>
+        <li>Artwork preparation in CorelDraw, Photoshop and Illustrator for all signage projects</li>
+        <li>Client consultation: design concepts, material estimation, on-site installation oversight</li>
+      </ul>
+    </div>
+    <div class="titem fu">
+      <div class="t-period">2019 — 2024</div>
+      <div class="t-role">Graphic Designer &amp; Digital Marketing Specialist</div>
+      <div class="t-company">Fitliners VIP Gym &amp; Fitline Pro Fitness Academy — Sri Lanka</div>
+      <ul class="t-bullets">
+        <li>Managed and grew social media channels with branded content strategy</li>
+        <li>Planned and executed promotional events, workshops and campaigns</li>
+        <li>Produced all large-format print and signage materials for the brand</li>
+        <li>Cloth brand printing machine operation and digital print production</li>
+      </ul>
+    </div>
+    <div class="titem fu">
+      <div class="t-period">2016 — 2019</div>
+      <div class="t-role">Senior Designer &amp; Manager Executive</div>
+      <div class="t-company">Ad House Team (Pvt) Ltd — Sri Lanka</div>
+      <ul class="t-bullets">
+        <li>Led design team from client briefing to production and final installation</li>
+        <li>Large-format digital printing on Roland and HP wide-format systems</li>
+        <li>CNC router and laser cutter operation for signage and display production</li>
+        <li>Full project coordination: cost estimation, scheduling and delivery management</li>
+      </ul>
+    </div>
+  </div>
+</section>
